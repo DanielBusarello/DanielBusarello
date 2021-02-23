@@ -5,4 +5,12 @@ In my spare time, I'm developing an e-commerce and a consulting website, both us
 
 ### Some tags
 
-	/node/v/:packageName
+	# Node.js
+	# JavaScript
+	# TypeScript
+	# HTML & CSS
+	# React
+	# Java
+	# C#
+	# MySQL
+	# MariaDB
