@@ -16,9 +16,9 @@ In my spare time, I'm developing an e-commerce and a consulting website, both us
 :white_circle: MySQL <br>
 :white_circle: MariaDB <br>
 
-### My Contact :email:
-[![Linkedin Badge](https://img.shields.io/badge/-ThiagoMarinho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/tgmarinho/)
-[![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:tgmarinho@gmail.com)
+### Contact :email:
+[![Linkedin Badge](https://img.shields.io/badge/-DanielBusarello-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/daniel-b-255b22109)](https://www.linkedin.com/in/daniel-b-255b22109)
+[![Gmail Badge](https://img.shields.io/badge/-danielbusarello11@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danielbusarello11@gmail.com)](mailto:danielbusarello11@gmail.com)
 	
 ### Desenvolvedor Junior
 
