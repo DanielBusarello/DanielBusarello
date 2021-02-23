@@ -4,7 +4,7 @@ Hello, my name is Daniel, I'm 19 years old and I live in Brazil; <br>
 I'm currently working at <b><i>Fácil Informática</i></b> and graduating Computer Science at <b><i>FURB - Blumenau, Santa Catarina</i></b>; <br>
 In my spare time, I'm developing an e-commerce and a consulting website, both using Node.js and React; (Soon, I will create a repository with their public code :smile:!)
 
-### What I know
+### My Stack :computer:
 
 :white_circle: Node.js <br>
 :white_circle: JavaScript <br>
@@ -15,6 +15,10 @@ In my spare time, I'm developing an e-commerce and a consulting website, both us
 :white_circle: C# <br>
 :white_circle: MySQL <br>
 :white_circle: MariaDB <br>
+
+### My Contact :email:
+[![Linkedin Badge](https://img.shields.io/badge/-ThiagoMarinho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/tgmarinho/)
+[![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:tgmarinho@gmail.com)
 	
 ### Desenvolvedor Junior
 
@@ -22,7 +26,7 @@ Olá, me chamo Daniel, tenho 19 anos e moro no Brasil; <br>
 Atualmente trabalho na <b> <i> Fácil Informática </i> </b> e estou cursando Ciência da Computação pela <b> <i> FURB - Blumenau, Santa Catarina </i> </b>; <br>
 Nas horas vagas, estou desenvolvendo um e-commerce e um site de consultoria, ambos em Node.js e React; (Em breve, irei criar um repositório com os código públicos :smile:!)
 
-### O que eu sei
+### Minha Stack :computer:
 
 :white_circle: Node.js <br>
 :white_circle: JavaScript <br>
