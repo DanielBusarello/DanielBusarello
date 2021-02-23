@@ -37,3 +37,7 @@ Nas horas vagas, estou desenvolvendo um e-commerce e um site de consultoria, amb
 :white_circle: C# <br>
 :white_circle: MySQL <br>
 :white_circle: MariaDB <br>
+
+### Contato :email:
+[![Linkedin Badge](https://img.shields.io/badge/-DanielBusarello-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/daniel-b-255b22109)](https://www.linkedin.com/in/daniel-b-255b22109)
+[![Gmail Badge](https://img.shields.io/badge/-danielbusarello11@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danielbusarello11@gmail.com)](mailto:danielbusarello11@gmail.com)
