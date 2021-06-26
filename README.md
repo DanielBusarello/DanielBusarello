@@ -1,6 +1,6 @@
 ### Junior Developer
 
-Currently working at <b><i>Fácil Informática</i></b> and attending Computer Science at <b><i>FURB - Blumenau, Santa Catarina</i></b>; <br>
+Currently working at <b><i>Philips Clinical Informatics</i></b> and attending Computer Science at <b><i>FURB - Blumenau, Santa Catarina</i></b>; <br>
 
 ### My Stack :computer:
 
@@ -20,7 +20,7 @@ Currently working at <b><i>Fácil Informática</i></b> and attending Computer Sc
 	
 ### Desenvolvedor Junior
 
-Atualmente trabalho na <b> <i> Fácil Informática </i> </b> e estou cursando Ciência da Computação pela <b> <i> FURB - Blumenau, Santa Catarina </i> </b>; <br>
+Atualmente trabalho na <b> <i> Philips Clinical Informatics </i> </b> e estou cursando Ciência da Computação pela <b> <i> FURB - Blumenau, Santa Catarina </i> </b>; <br>
 
 ### Minha Stack :computer:
 
