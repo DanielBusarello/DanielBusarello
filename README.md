@@ -9,7 +9,7 @@ Currently working at <b><i>Philips Clinical Informatics</i></b> and attending Co
 :white_circle: TypeScript <br>
 :white_circle: HTML & CSS <br>
 :white_circle: React <br>
-:white_circle: Java :hotsprings: <br>
+:white_circle: Java <br>
 :white_circle: C# <br>
 :white_circle: MySQL <br>
 :white_circle: MariaDB <br>
@@ -29,7 +29,7 @@ Atualmente trabalho na <b> <i> Philips Clinical Informatics </i> </b> e estou cu
 :white_circle: TypeScript <br>
 :white_circle: HTML e CSS <br>
 :white_circle: React <br>
-:white_circle: Java :hotsprings: <br>
+:white_circle: Java <br>
 :white_circle: C# <br>
 :white_circle: MySQL <br>
 :white_circle: MariaDB <br>
