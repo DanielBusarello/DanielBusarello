@@ -3,12 +3,6 @@
 - Currently working at <b><i>Philips Clinical Informatics</i></b> and attending Computer Science at <b><i>FURB - Blumenau, Santa Catarina</i></b>; <br>
 - Studing React and Node.js;
 
- <div>
-  <a href="https://github.com/DanielBusarello">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielBusarello&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielBusarello&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
 ### My Stack
 	
 <div style="display: inline_block"><br>
