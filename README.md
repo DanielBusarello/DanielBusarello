@@ -1,7 +1,7 @@
 ### Software Developer
 
 - Currently working at <b><i>Philips Clinical Informatics</i></b><br>
-- Studing Java and Microservices;
+- Studing React;
 
 ### My Stack
 	
